@@ -2,6 +2,10 @@
 import fastf1 as ff1
 import pandas as pd
 
+
+#</editor-fold>
+
+#<editor-fold desc="Set Ups">
 ff1.Cache.enable_cache('Cache/')
 pd.options.mode.chained_assignment = None
 
